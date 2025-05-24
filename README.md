@@ -109,15 +109,4 @@ You have now completed the setup of a basic Active Directory environment in a vi
 
 ---
 
-## Repository Structure Suggestion
-```
-/ActiveDirectory_Lab_Setup
 
- /images
-    AD_Lab_Topology.png
- README.md
- AD_Lab_Setup_Documentation.pdf
- scripts
-     create_users.ps1
-     setup_groups.ps1
-```
